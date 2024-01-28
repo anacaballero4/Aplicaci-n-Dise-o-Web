@@ -8,3 +8,4 @@ Markdown es un lenguaje de marcado ligero que puedes usar para añadir formato a
 - Negrita: `**texto en negrita**`.
 - Cursiva: `*texto en cursiva*`.
 - Bloques de código: \`bloque de código\` o ```
+- Listas de tareas: `- [ ] tarea pendiente`, `- [x] tarea completada`.
